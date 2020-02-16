@@ -1,0 +1,15 @@
+:root {
+    --headingTextColor: #343a40;
+    --bodyTextColor: #868e96;
+    --borderColor: #dee2e6;
+    --socialIconColor: #495057;
+  
+    --mainAccentColor: hsl(199, 54%, 48%);
+    --mainAccentColorFocused: hsl(199, 54%, 30%);
+    --mainBGColor: #FFFFFF;
+  
+    --tagBaseColor: #eee;
+    --tagAltColor: #999;
+    --tagBGColor: #fff;
+    --tagHoverColor: crimson;
+}

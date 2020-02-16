@@ -1,4 +1,29 @@
+title = "John Oberly III"
 baseURL = "http://johnoberlyiii.com/"
 languageCode = "en-us"
-title = "John Oberly III"
 theme = "hugo-resume"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentStyle = "monokai"
+enableGitInfo = true
+
+[params]
+color = "css/colordata.css"
+address = "Rochester, MN"
+email = "joberly@gmail.com"
+firstName = "John"
+lastName = "Oberly"
+phone = "+1 507-722-1337"
+profileImage = "img/john-oberly.jpg"
+showEducation = true
+
+[[params.handles]]
+link = "https://linkedin.com/in/joberly"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://github.com/joberly"
+name = "GitHub"
+
+[outputs]
+home = ["HTML", "JSON"]
