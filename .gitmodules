@@ -1,0 +1,4 @@
+[submodule "themes/hugo-resume"]
+	path = themes/hugo-resume
+	url = https://github.com/joberly/hugo-resume.git
+	branch = dev
