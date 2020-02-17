@@ -1,0 +1,62 @@
+[
+    {
+        "grouping":"Languages",
+        "skills":[
+            "Go",
+            "C/C++",
+            "SQL",
+            "Unix Shell Scripting",
+            "Windows Batch Files"
+        ]
+    },
+    {
+        "grouping":"DevOps",
+        "skills":[
+            "GitHub",
+            "Bitbucket",
+            "CircleCI",
+            "Terraform Cloud",
+            "Jenkins"
+        ]
+    },
+    {
+        "grouping":"Software Development",
+        "skills":[
+            "Agile Methodologies",
+            "Project Planning and Estimation",
+            "Object Based Design",
+            "Unit Testing",
+            "Automated Testing"
+        ]
+    },
+    {
+        "grouping":"Tools",
+        "skills":[
+            {"name":"Docker","link":"https://docker.com"},
+            {"name":"Terraform","link":"https://www.terraform.io"},
+            "Git"
+        ]
+    },
+    {
+        "grouping":"Cloud",
+        "skills":[
+            "AWS S3",
+            "AWS Elastic Beanstalk",
+            "Elasticsearch",
+            "Elastic Beats",
+            "SaltStack"
+        ]
+    },
+    {
+        "grouping":"Hardware",
+        "skills":[
+            "NVMe",
+            "PCIe",
+            "SR-IOV",
+            "Device Drivers",
+            "I/O Virtualization",
+            "Firmware Development"
+        ]
+    }
+]
+  

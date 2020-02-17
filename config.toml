@@ -16,6 +16,8 @@ lastName = "Oberly"
 phone = "+1 507-722-1337"
 profileImage = "img/john-oberly.jpg"
 showEducation = true
+showExperience = true
+showSkills = true
 
 [[params.handles]]
 link = "https://linkedin.com/in/joberly"
