@@ -18,6 +18,7 @@ profileImage = "img/john-oberly.jpg"
 showEducation = true
 showExperience = true
 showSkills = true
+showCredits = true
 
 [[params.handles]]
 link = "https://linkedin.com/in/joberly"
