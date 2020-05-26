@@ -1,21 +1,21 @@
 ---
-title: "Yes Health Cloud Datacenter"
+title: "Yes Health Cloud Data Center"
 date: 2020-05-25T16:22:32-05:00
 featured: true
 description: |
-  <i>February 2020 - present</i></br>
-  Yes Health's cloud datacenter infrastructure deployed from
+  <i>March 2020 - present</i></br>
+  Yes Health's cloud datancenter infrastructure deployed from
   the ground up with Terraform.
 tags: ["terraform","aws","docker","ecs","sops"]
-image: ""
+#image: ""
 #link: "URL linked from project details page"
-fact: "Cloud infrastructure Terraformed from scratch"
-weight: 500
+#fact: ""
+weight: 100
 sitemap:
   priority : 0.8
 ---
 
-_February 2020 - present_
+_March 2020 - Present_
 
 Yes Health's cloud data center infrastructure deployed from the ground up with Terraform.
 - Initial set up of Terraform remote state and locking for multiple user access

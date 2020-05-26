@@ -1,10 +1,10 @@
 ---
-title: "Network Monitor Microservice"
+title: "Paperspace Network Monitor Microservice"
 date: 2020-02-01T19:00:00-05:00
-featured: false
+featured: true
 description: |
   <i>August 2019 - February 2020</i></br>
-  A microservice to monitor server network metrics, written in Golang.
+  A microservice to monitor data center network utilization, written in Golang.
 tags: ["networking","ovs","microservice","golang","go"]
 #image: ""
 #link: "URL linked from project details page"
@@ -16,7 +16,7 @@ sitemap:
 
 _August 2019 - February 2020_
 
-Golang microservice for monitoring datacenter network utilization.
+Golang microservice for monitoring data center network utilization.
 - Implemented and unit tested microservice.
 - Used OpenVSwitch to monitor network activity.
 - Deployed in the datacenter with SaltStack.
