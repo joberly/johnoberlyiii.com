@@ -4,6 +4,7 @@
         "skills":[
             "Go",
             "C/C++",
+            "HashiCorp Configuration Language (HCL)",
             "SQL",
             "Unix Shell Scripting",
             "Windows Batch Files"
@@ -15,7 +16,8 @@
             "GitHub",
             "Bitbucket",
             "CircleCI",
-            "Terraform Cloud",
+            "Terraform",
+            "Ansible",
             "Jenkins"
         ]
     },
@@ -34,17 +36,27 @@
         "skills":[
             {"name":"Docker","link":"https://docker.com"},
             {"name":"Terraform","link":"https://www.terraform.io"},
-            "Git"
+            "Git",
+            "Elasticsearch and Beats",
+            "SaltStack",
+            "Ansible"
         ]
     },
     {
-        "grouping":"Cloud",
+        "grouping":"AWS Cloud",
         "skills":[
-            "AWS S3",
-            "AWS Elastic Beanstalk",
-            "Elasticsearch",
-            "Elastic Beats",
-            "SaltStack"
+            "VPC",
+            "Elastic Compute Cloud (EC2)",
+            "CodeBuild",
+            "Simple Storage Service (S3)",
+            "Application Load Balancers",
+            "Identity and Access Management (IAM)",
+            "Key Management System (KMS)",
+            "Secrets Manager",
+            "Systems Manager",
+            "Elastic Container Service (ECS)",
+            "ECS Container Registry (ECR)",
+            "Simple Notification Service (SNS)"
         ]
     },
     {

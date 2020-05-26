@@ -1,6 +1,12 @@
 [
     {
         "role":"DevOps Engineer",
+        "company":"Yes Health",
+        "summary":"Infrastructure Operations, Application Deployment, and Developer Experience",
+        "range":"February 2020 - Present"
+    },
+    {
+        "role":"DevOps Engineer",
         "company":"Paperspace",
         "summary":"Infrastructure Operations and Microservices Development",
         "range":"July 2019 - February 2020"
