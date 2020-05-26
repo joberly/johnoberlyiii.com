@@ -1,15 +1,15 @@
 :root {
-    --headingTextColor: #343a40;
-    --bodyTextColor: #868e96;
-    --borderColor: #dee2e6;
-    --socialIconColor: #495057;
+    --headingTextColor: hsl(195, 10%, 23%);
+    --bodyTextColor: hsl(195, 7%, 56%);
+    --borderColor: 	hsl(195, 14%, 89%);
+    --socialIconColor: hsl(195, 9%, 31%);
   
-    --mainAccentColor: hsl(199, 54%, 48%);
-    --mainAccentColorFocused: hsl(199, 54%, 30%);
-    --mainBGColor: #FFFFFF;
+    --mainAccentColor: hsl(195, 73%, 47%);
+    --mainAccentColor: hsl(195, 73%, 30%);
+    --mainBGColor: hsl(0, 0%, 100%);
   
-    --tagBaseColor: #eee;
-    --tagAltColor: #999;
-    --tagBGColor: #fff;
-    --tagHoverColor: crimson;
+    --tagBaseColor: hsl(0, 0%, 93%);
+    --tagAltColor: hsl(0, 0%, 60%);
+    --tagBGColor: hsl(0, 0%, 100%);
+    --tagHoverColor: hsl(15, 83%, 47%);
 }
