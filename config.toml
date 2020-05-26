@@ -19,6 +19,7 @@ showEducation = true
 showExperience = true
 showSkills = true
 showCredits = true
+showProjects = true
 
 [[params.handles]]
 link = "https://linkedin.com/in/joberly"
